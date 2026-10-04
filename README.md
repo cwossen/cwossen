@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Caleb 👋
 
-<!--
-**cwossen/cwossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's researcher at Sejong University working at the intersection of
+**affective computing, computer vision, and spatial AI**. I build real-time,
+**privacy-first emotion-sensing systems for physical spaces**.
 
-Here are some ideas to get you started:
+🔭 **Currently:** [Retail-Emotion-Analytics](https://github.com/cwossen/Retail-Emotion-Analytics) —
+a real-time in-store CV system (YOLOv8 · DeepFace · ByteTrack) that reads shopper
+engagement and anonymizes faces at capture (synthetic proxies, no biometrics stored).
+It's the prototype behind my research on an appraisal-grounded model of retail emotion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Tools:** Python · Rust · JavaScript/React · OpenCV · YOLOv8 · DeepFace · ByteTrack · Streamlit · SQLite · QGIS/GeoAI
+
+🎯 **Looking for:** an AI / computer-vision internship (Seoul).
+
+📫 **Reach me:** cwossen2@gmail.com
+
+
