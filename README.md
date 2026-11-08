@@ -7,7 +7,9 @@ Master's researcher at Sejong University working at the intersection of
 🔭 **Currently:** [Retail-Emotion-Analytics](https://github.com/cwossen/Retail-Emotion-Analytics) —
 a real-time in-store CV system (YOLOv8 · DeepFace · ByteTrack) that reads shopper
 engagement and anonymizes faces at capture (synthetic proxies, no biometrics stored).
-It's the prototype behind my research on an appraisal-grounded model of retail emotion.
+It's the prototype behind my research on an appraisal-grounded model of retail emotion. 
+
+Feel free to check out its current [demo](https://github.com/cwossen/retail-emotion-sensing/blob/main/demo.gif). 
 
 🧰 **Tools:** Python · Rust · JavaScript/React · OpenCV · YOLOv8 · DeepFace · ByteTrack · Streamlit · SQLite · QGIS/GeoAI
 
